@@ -13,4 +13,4 @@ def test_sub():
 
 def test_mult():
     """ docstring for test mult """
-    assert sub(2,3)==6
+    assert mult(2,3)==6
